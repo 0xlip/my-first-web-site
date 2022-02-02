@@ -1,0 +1,38 @@
+<img src="coding1.jpg" width="50%">
+
+<ul>                                                                                                   
+-리스트의 부모                                                                                        
+<ol>
+-리스트들의 번호를 매겨줌.
+<li>
+-리스트
+
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ol>
+<ul>
+  <li>0xlip</li>
+  <li>p9s9e9</li>
+  <li>sangeun</li>
+</ul>
+
+--------------------
+<title> 웹페이지 제목 </title>
+<meta charset="utf-8">
+- utf-8 로 문서로 읽어라. (char는 문자 set 규칙)
+<body> </body>
+- 본문
+</head> </head>
+- 본문을 설명하는 헤드태그들 예)title, meta
+<html> </html>
+- 위 두개의 고위태그들을 감싸는 끝판왕 태그.
+<!doctype html>
+- 모든 html 페이지에서 제일 첫번째로 나오는것. 위문서는 html로 되어있다 라는 뜻.
+
+---------------------------
+
+<a href="https://naver.com" target="_blank" title="naver page"> 본문내용 </a>
+-> 본문내용을 클릭하면 새페이지를 만들어 링크로 이동한다. h=hypertext ,ref= reference 의약자,
+target_"_blank"이 새페이지생성하는 속성, title은 마우스를 닿게했을 때 나오는 툴팁.
